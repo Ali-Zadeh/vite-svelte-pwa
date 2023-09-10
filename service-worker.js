@@ -1,5 +1,5 @@
 // Change this to your repository name
-const GHPATH = 'https://ali-zadeh.github.io/vite-svelte-pwa/';
+const GHPATH = 'https://ali-zadeh.github.io';
 
 // Choose a different app prefix name
 const APP_PREFIX = 'vite_svelte_pwa_';
